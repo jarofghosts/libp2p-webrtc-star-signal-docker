@@ -1,0 +1,23 @@
+{
+  "name": "libp2p-webrtc-star-signal-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "libp2p-webrtc-star": "0.18.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "star-signal"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jarofghosts/libp2p-webrtc-star-signal-docker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jarofghosts/libp2p-webrtc-star-signal-docker/issues"
+  },
+  "homepage": "https://github.com/jarofghosts/libp2p-webrtc-star-signal-docker#readme"
+}
